@@ -16,8 +16,14 @@ Il programma è utilizzabile attraverso l'acquisto di una licenza. Attraverso l'
 ## A chi è rivolto questo tool?
 Il tool è rivolto a chi si sta approcciando al mondo dei controlli Anti-Cheat su FiveM, ma anche a persone già formate, in quanto racchiude tante funzionalità in un unico software che semplifica il tutto, diminuendo anche i tempi.
 
+## Quante versioni esistono?
+Esistono 3 versioni del software e sono Demo, Standard ed Enterprise.
+Le differenze tra quest'ultime sono mostrate nella seguente tabella. 
+
+![alt text](https://cdn.discordapp.com/attachments/942156969165324359/947660982673637376/Versioni.png)
+
 ## Il software è a pagamento?
 Si, e se sei interessato all'acquisto di questo tool puoi aprire un ticket sul nostro server [discord](https://discord.gg/UxsZeYFz7q).
 
 ## Si può fare una prova gratuita?
-Certo, boostando il server [discord](https://discord.gg/UxsZeYFz7q) e aprendo un ticket per reclamare la ricompensa, riceverai per ogni boost al server 5 controlli su ogni pc, e controlli infiniti sul tuo.
+Certo, boostando il server [discord](https://discord.gg/UxsZeYFz7q) e aprendo un ticket per reclamare la ricompensa, riceverai per ogni boost al server 5 controlli su ogni pc, e controlli infiniti sul tuo, altrimenti è disponibile la versione demo sul nostro [Inspector. Software Downloader](https://discord.gg/UxsZeYFz7q).
