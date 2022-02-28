@@ -26,4 +26,4 @@ Le differenze tra quest'ultime sono mostrate nella seguente tabella.
 Si, e se sei interessato all'acquisto di questo tool puoi aprire un ticket sul nostro server [discord](https://discord.gg/UxsZeYFz7q).
 
 ## Si può fare una prova gratuita?
-Certo, boostando il server [discord](https://discord.gg/UxsZeYFz7q) e aprendo un ticket per reclamare la ricompensa, riceverai per ogni boost al server 5 controlli su ogni pc, e controlli infiniti sul tuo, altrimenti è disponibile la versione demo sul nostro [Inspector. Software Downloader](https://discord.gg/UxsZeYFz7q).
+Certo, boostando il server [discord](https://discord.gg/UxsZeYFz7q) e aprendo un ticket per reclamare la ricompensa, riceverai per ogni boost al server 5 controlli su ogni pc, e controlli infiniti sul tuo, altrimenti è disponibile la versione demo sul nostro [Inspector. Software Downloader](https://github.com/inspector-development/Inspector.-Software-Downloader).
