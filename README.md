@@ -2,7 +2,7 @@
 ## Cos'è Inspector.?
 Inspector è un comodissimo tool per effettuare controlli Anti-Cheat su FiveM, dotato di una grafica moderna, intuitiva e accattivante.
 
-![alt text](https://cdn.discordapp.com/attachments/942156969165324359/942157799469748305/SPOILER_spoiler.png)
+![alt text](https://cdn.discordapp.com/attachments/942156969165324359/947660002699644968/unknown.png)
 
 ## Come è nato?
 Il software è nato come un semplice file .bat personale che velocizzava le normali procedure di un controllo Anti-Cheat.
